@@ -15,6 +15,6 @@ An Exploratory Data Analysis is performed on the Superstore eCommerce Dataset us
 * NumPy
 
 The main characteristics of the dataset are summarized using statistical graphs and data visualization methods.
-Using the insights generated, developed a PowerBI dashboard to provide suggestions on how to enable businesses to extract valuable insights from e-commerce data, drive informed decision-making, and optimize various aspects of their e-commerce operations to achieve business objectives such as increasing sales, improving customer satisfaction, and maximizing profitability.
+Using the insights generated, developed a **PowerBI dashboard** to provide suggestions on how to enable businesses to extract valuable insights from e-commerce data, drive informed decision-making, and optimize various aspects of their e-commerce operations to achieve business objectives such as increasing sales, improving customer satisfaction, and maximizing profitability.
 
 
